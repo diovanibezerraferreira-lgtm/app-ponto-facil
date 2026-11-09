@@ -1,0 +1,6 @@
+{
+  "name": "Ponto Fácil",
+  "description": "Sistema moderno de controle de ponto eletrônico para PMEs brasileiras, com gestão de colaboradores, banco de horas e painel SaaS multi-empresas.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
